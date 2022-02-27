@@ -7,7 +7,7 @@ import lombok.Getter;
 public enum Status {
 
     OFFLINE("OFFLINE"),
-    OUTLINE("OUTLINE");
+    ONLINE("ONLINE");
 
     private final String status;
 
