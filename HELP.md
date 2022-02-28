@@ -1,6 +1,6 @@
 # Getting Started
 
 ### Let My Introduce yourself
-Developer by Rafael Barrientos, JavaDev
+Developer by Rafael Barrientos Holder, JavaDev
 
-* [Proyect in Github](https://maven.apache.org/guides/index.html)
+* [Proyect in Github](https://github.com/rafavlack/gateway_sentinel.git)

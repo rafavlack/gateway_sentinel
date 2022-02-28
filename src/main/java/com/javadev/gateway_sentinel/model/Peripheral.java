@@ -31,6 +31,7 @@ public class Peripheral implements Serializable {
  private Date date_created;
 
  @Column(name = "status")
+ @Enumerated(EnumType.STRING)
  private Status status;
 
  @ManyToOne
