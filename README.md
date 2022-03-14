@@ -2,3 +2,4 @@
 # gateway_sentinel
 
 #Spring Boot API Rest and Frontend in ReactJS.
+En este proyecto se puede ver los fundamentos de un API Rest construido con Spring Boot el cual conecta con el FrontEnd desarrollado en ReactJS.
